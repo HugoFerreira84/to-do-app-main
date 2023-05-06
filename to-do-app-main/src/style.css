@@ -1,0 +1,35 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px
+}
+
+.divider{
+    width: 100%;
+    padding: 0.3px;
+    background-color: #ddd;
+}
+
+.container-task{
+    display: flex;
+    justify-content: center;
+}
+
+.box-task{
+    background-color: #eee;
+    max-width: 400px;
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.task{
+    padding: 5px;
+}
+
+.task-single{
+    display: flex;
+    justify-content: space-between;
+}
